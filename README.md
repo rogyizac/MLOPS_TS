@@ -34,6 +34,7 @@ Features:
   - Reconciliation
   - Univariate Methods
   - Multivariate Methods
+  - Online and Batch Forecasting
   
 Planned Features :
   Graph based visibility
