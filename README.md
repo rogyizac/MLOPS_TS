@@ -19,6 +19,11 @@ UI
     - Drag and drop model creation
     - Feature Comparison
     - Drift tracking
+    - User and 3rd party forecast integration
+    - External data integration
+    - Buy Models
+    - Buy Features
+    - Buy Segmentation
   - Reporting Templates
   - Language of Choice
       - Backend : Python
