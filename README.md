@@ -11,7 +11,7 @@ IaaS
 - Terraform & Ansible
 
 Core Language of Choice
- - Python
+ - Python - PEP8
 
 UI
   - Workbench
@@ -21,9 +21,6 @@ UI
     - Drift tracking
     - User and 3rd party forecast integration
     - External data integration
-    - Buy Models
-    - Buy Features
-    - Buy Segmentation
   - Reporting Templates
   - Language of Choice
       - Backend : Python
